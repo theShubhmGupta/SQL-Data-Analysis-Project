@@ -53,7 +53,7 @@ The database consists of multiple related tables connected through keys such as:
 Schema Diagram:
 
 ```
-schema/database_schema.png
+[schema/database_schema.png](schema/database_schema.png)
 ```
 
 ---
