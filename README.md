@@ -187,5 +187,5 @@ Aspiring **Data Analyst** passionate about turning raw data into meaningful insi
 
 # 📬 Contact
 
-LinkedIn: [(https://www.linkedin.com/in/theshubhamguptaa)]
-GitHub: [(https://github.com/theShubhmGupta)]
+LinkedIn:(https://www.linkedin.com/in/theshubhamguptaa)
+GitHub:(https://github.com/theShubhmGupta)
